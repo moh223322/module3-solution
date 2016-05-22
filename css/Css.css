@@ -1,0 +1,25 @@
+#collapsable-nav #button-menu li{
+	color:white;
+	font-size:150%;
+}
+#collapsable-nav #button-menu{
+	background-color:maroon;
+}
+h2{
+	margin-top:5px;
+}
+.container .row{
+	background-color:blue;
+	padding:15px;
+}
+@media(max-width:768px){
+	.container .row{
+		width:90%;
+		margin-right:5%;
+		margin-left:5%;
+		padding:5px;
+	}
+}
+.container .row p{
+	color:white
+}
